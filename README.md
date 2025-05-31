@@ -1,2 +1,1 @@
-# data
-Pachter lab datasets
+# Pachter lab datasets
